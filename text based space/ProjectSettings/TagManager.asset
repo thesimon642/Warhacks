@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Forcefield
+  - EnemyHitbox
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - UI Text
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background/Space
+    uniqueID: 615438365
+    locked: 0
+  - name: Background/Forcefield
+    uniqueID: 4250353833
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Enemy/Sprite
+    uniqueID: 2375682733
+    locked: 0
+  - name: Enemy/Particle
+    uniqueID: 1305826745
+    locked: 0
+  - name: Enemy/Healthbar
+    uniqueID: 998547997
+    locked: 0
+  - name: Console/Window
+    uniqueID: 1490644337
+    locked: 0
+  - name: Console/Text
+    uniqueID: 1074593953
+    locked: 0
+  - name: Pause/Back
+    uniqueID: 1749962789
+    locked: 0
+  - name: Pause/Top
+    uniqueID: 565782109
+    locked: 0
+  - name: Settings-Back
+    uniqueID: 3353377047
+    locked: 0
+  - name: Settings-Front
+    uniqueID: 2774776723
+    locked: 0
+  - name: Settings-Bonus1
+    uniqueID: 3539846017
+    locked: 0
+  - name: Settings-Bonus2
+    uniqueID: 1527023195
+    locked: 0
